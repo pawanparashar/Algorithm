@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglelyLinkedList", "Singl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "towerofhanoi", "towerofhanoi\towerofhanoi.csproj", "{67CD6092-CB26-4158-A5E3-295D7854C9C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{D1ABA599-03C3-4325-9B59-5210692C0EA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UncoupledInt", "ConsoleApplication1\UncoupledInt.csproj", "{D1ABA599-03C3-4325-9B59-5210692C0EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetSum", "TargetSum\TargetSum.csproj", "{DC8EC1EE-0904-4898-86BC-B765744838FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D1ABA599-03C3-4325-9B59-5210692C0EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1ABA599-03C3-4325-9B59-5210692C0EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1ABA599-03C3-4325-9B59-5210692C0EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8EC1EE-0904-4898-86BC-B765744838FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8EC1EE-0904-4898-86BC-B765744838FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8EC1EE-0904-4898-86BC-B765744838FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8EC1EE-0904-4898-86BC-B765744838FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
