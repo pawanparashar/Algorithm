@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UncoupledInt", "ConsoleAppl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetSum", "TargetSum\TargetSum.csproj", "{DC8EC1EE-0904-4898-86BC-B765744838FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackMinimum", "StackMinimum\StackMinimum.csproj", "{C6378F39-DC2B-438F-BA0F-5D44AA979AC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{DC8EC1EE-0904-4898-86BC-B765744838FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC8EC1EE-0904-4898-86BC-B765744838FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC8EC1EE-0904-4898-86BC-B765744838FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6378F39-DC2B-438F-BA0F-5D44AA979AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6378F39-DC2B-438F-BA0F-5D44AA979AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6378F39-DC2B-438F-BA0F-5D44AA979AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6378F39-DC2B-438F-BA0F-5D44AA979AC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
