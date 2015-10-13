@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "BubbleSort\Sorting.csproj", "{55175D1B-19CA-4667-80E0-D24EB45E5FF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofSquare", "SumofSquare\SumofSquare.csproj", "{F1B83332-2AFC-46C8-AAB2-B2A365E3C79C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{55175D1B-19CA-4667-80E0-D24EB45E5FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55175D1B-19CA-4667-80E0-D24EB45E5FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55175D1B-19CA-4667-80E0-D24EB45E5FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B83332-2AFC-46C8-AAB2-B2A365E3C79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B83332-2AFC-46C8-AAB2-B2A365E3C79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B83332-2AFC-46C8-AAB2-B2A365E3C79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B83332-2AFC-46C8-AAB2-B2A365E3C79C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
